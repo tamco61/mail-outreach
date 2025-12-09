@@ -1,3 +1,8 @@
+# Установка библиотек
+```(bash)
+pip install -r requirement.txt
+```  
+
 # Запуск
 ```(bash)
 python .\main.py .\email.txt
